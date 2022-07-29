@@ -1,0 +1,16 @@
+NOMAGE :
+server -> Le PC qui fait tout tourner
+remote -> La page web d'interface presentateur
+front -> La page web d'affichage globale
+buzzer -> La page web qui permet aux joueurs de buzzer
+
+VARIABLES :
+bdd -> fullmin
+php -> lowerCamerCase
+js -> lowerCamerCase
+
+HIERARCHY :
+-server
+-front
+-remote
+-buzzer
