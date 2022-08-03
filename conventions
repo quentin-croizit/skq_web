@@ -14,3 +14,12 @@ HIERARCHY :
 -front
 -remote
 -buzzer
+
+ID DES OBJETS :
+0?? -> pages de fonctionnement / épreuves
+1?? -> questions de la 1ere épreuve
+2?? -> questions de la 2eme épreuve
+3?? -> questions de la 3eme épreuve
+4?? -> questions de la 4eme épreuve
+5?? -> questions de la 5eme épreuve
+6?? -> questions de la 6eme épreuve
