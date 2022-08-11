@@ -1,0 +1,15 @@
+Remote needs :
+
+- Voir question et réponses de la page affichée
+- Voir les points
+- Donner des points
+- Choisir d'afficher :
+    - Une transition (un fichier video)
+    - Une question
+    - Une page spécifique
+- Pouvoir interagir avec la page afficher :
+    - Affichant la question
+    - Afficher les réponses (une a une)
+    - Afficher la bonne réponses
+    - Faire une action contextuelle (lancer video / audio)
+    - Faire une action spéciale
